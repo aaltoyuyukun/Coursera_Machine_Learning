@@ -1,3 +1,3 @@
 # Coursera_Machine_Learning
-这是coursera上面NG开设的machine learning的一门课，有完整的代码和讲义，代码是用octave编的，当然matlab也可以用的
+这是coursera上面Ng开设的machine learning的一门课，有完整的代码和讲义，代码是用octave编的，当然matlab也可以用的
 希望能帮助到大家了
